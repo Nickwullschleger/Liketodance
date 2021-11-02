@@ -1,0 +1,31 @@
+body{
+    color: rgb(248, 244, 244);
+    font-family: 'Ranchers', cursive;
+    background-color: rgba(29, 36, 29, 0.973);
+
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    }
+  
+    /* Add some content at the bottom of the video/page */
+    .content {
+        margin: 0;
+        background: rgba(61, 61, 59, 0.623);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+  
+    
+    
+
+
